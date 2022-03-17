@@ -33,7 +33,7 @@
 
 <a>
   <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-<a>
+</a>
   
 <img width=130px align="left" src="https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v1/open-source-150x25.png?raw=true" />
 
